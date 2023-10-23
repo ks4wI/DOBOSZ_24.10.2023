@@ -1,0 +1,28 @@
+C:\Users\ksawi\source\repos\dobi10.10\dobi10.10\bin\Debug\net6.0\dobi10.10.exe
+C:\Users\ksawi\source\repos\dobi10.10\dobi10.10\bin\Debug\net6.0\dobi10.10.deps.json
+C:\Users\ksawi\source\repos\dobi10.10\dobi10.10\bin\Debug\net6.0\dobi10.10.runtimeconfig.json
+C:\Users\ksawi\source\repos\dobi10.10\dobi10.10\bin\Debug\net6.0\dobi10.10.dll
+C:\Users\ksawi\source\repos\dobi10.10\dobi10.10\bin\Debug\net6.0\dobi10.10.pdb
+C:\Users\ksawi\source\repos\dobi10.10\dobi10.10\obj\Debug\net6.0\dobi10.10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ksawi\source\repos\dobi10.10\dobi10.10\obj\Debug\net6.0\dobi10.10.AssemblyInfoInputs.cache
+C:\Users\ksawi\source\repos\dobi10.10\dobi10.10\obj\Debug\net6.0\dobi10.10.AssemblyInfo.cs
+C:\Users\ksawi\source\repos\dobi10.10\dobi10.10\obj\Debug\net6.0\dobi10.10.csproj.CoreCompileInputs.cache
+C:\Users\ksawi\source\repos\dobi10.10\dobi10.10\obj\Debug\net6.0\dobi10.10.dll
+C:\Users\ksawi\source\repos\dobi10.10\dobi10.10\obj\Debug\net6.0\refint\dobi10.10.dll
+C:\Users\ksawi\source\repos\dobi10.10\dobi10.10\obj\Debug\net6.0\dobi10.10.pdb
+C:\Users\ksawi\source\repos\dobi10.10\dobi10.10\obj\Debug\net6.0\dobi10.10.genruntimeconfig.cache
+C:\Users\ksawi\source\repos\dobi10.10\dobi10.10\obj\Debug\net6.0\ref\dobi10.10.dll
+C:\Users\ksawi\Desktop\c# zadania\dobi\dobi10.10.2023\dobi10.10\bin\Debug\net6.0\dobi10.10.exe
+C:\Users\ksawi\Desktop\c# zadania\dobi\dobi10.10.2023\dobi10.10\bin\Debug\net6.0\dobi10.10.deps.json
+C:\Users\ksawi\Desktop\c# zadania\dobi\dobi10.10.2023\dobi10.10\bin\Debug\net6.0\dobi10.10.runtimeconfig.json
+C:\Users\ksawi\Desktop\c# zadania\dobi\dobi10.10.2023\dobi10.10\bin\Debug\net6.0\dobi10.10.dll
+C:\Users\ksawi\Desktop\c# zadania\dobi\dobi10.10.2023\dobi10.10\bin\Debug\net6.0\dobi10.10.pdb
+C:\Users\ksawi\Desktop\c# zadania\dobi\dobi10.10.2023\dobi10.10\obj\Debug\net6.0\dobi10.10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ksawi\Desktop\c# zadania\dobi\dobi10.10.2023\dobi10.10\obj\Debug\net6.0\dobi10.10.AssemblyInfoInputs.cache
+C:\Users\ksawi\Desktop\c# zadania\dobi\dobi10.10.2023\dobi10.10\obj\Debug\net6.0\dobi10.10.AssemblyInfo.cs
+C:\Users\ksawi\Desktop\c# zadania\dobi\dobi10.10.2023\dobi10.10\obj\Debug\net6.0\dobi10.10.csproj.CoreCompileInputs.cache
+C:\Users\ksawi\Desktop\c# zadania\dobi\dobi10.10.2023\dobi10.10\obj\Debug\net6.0\dobi10.10.dll
+C:\Users\ksawi\Desktop\c# zadania\dobi\dobi10.10.2023\dobi10.10\obj\Debug\net6.0\refint\dobi10.10.dll
+C:\Users\ksawi\Desktop\c# zadania\dobi\dobi10.10.2023\dobi10.10\obj\Debug\net6.0\dobi10.10.pdb
+C:\Users\ksawi\Desktop\c# zadania\dobi\dobi10.10.2023\dobi10.10\obj\Debug\net6.0\dobi10.10.genruntimeconfig.cache
+C:\Users\ksawi\Desktop\c# zadania\dobi\dobi10.10.2023\dobi10.10\obj\Debug\net6.0\ref\dobi10.10.dll
