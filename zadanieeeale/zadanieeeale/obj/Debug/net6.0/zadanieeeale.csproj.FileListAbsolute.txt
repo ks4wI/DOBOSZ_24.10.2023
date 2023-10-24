@@ -1,0 +1,14 @@
+C:\Users\student\source\repos\zadanieeeale\zadanieeeale\bin\Debug\net6.0\zadanieeeale.exe
+C:\Users\student\source\repos\zadanieeeale\zadanieeeale\bin\Debug\net6.0\zadanieeeale.deps.json
+C:\Users\student\source\repos\zadanieeeale\zadanieeeale\bin\Debug\net6.0\zadanieeeale.runtimeconfig.json
+C:\Users\student\source\repos\zadanieeeale\zadanieeeale\bin\Debug\net6.0\zadanieeeale.dll
+C:\Users\student\source\repos\zadanieeeale\zadanieeeale\bin\Debug\net6.0\zadanieeeale.pdb
+C:\Users\student\source\repos\zadanieeeale\zadanieeeale\obj\Debug\net6.0\zadanieeeale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\source\repos\zadanieeeale\zadanieeeale\obj\Debug\net6.0\zadanieeeale.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\zadanieeeale\zadanieeeale\obj\Debug\net6.0\zadanieeeale.AssemblyInfo.cs
+C:\Users\student\source\repos\zadanieeeale\zadanieeeale\obj\Debug\net6.0\zadanieeeale.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\zadanieeeale\zadanieeeale\obj\Debug\net6.0\zadanieeeale.dll
+C:\Users\student\source\repos\zadanieeeale\zadanieeeale\obj\Debug\net6.0\refint\zadanieeeale.dll
+C:\Users\student\source\repos\zadanieeeale\zadanieeeale\obj\Debug\net6.0\zadanieeeale.pdb
+C:\Users\student\source\repos\zadanieeeale\zadanieeeale\obj\Debug\net6.0\zadanieeeale.genruntimeconfig.cache
+C:\Users\student\source\repos\zadanieeeale\zadanieeeale\obj\Debug\net6.0\ref\zadanieeeale.dll
